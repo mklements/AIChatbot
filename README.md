@@ -66,6 +66,8 @@ pip install \
     python-dotenv \
     pydub \
     pygame \
+    pyaudio \
+    python-dotenv \
 ```
 
 ### 2.3 Setting Up OpenAI API
