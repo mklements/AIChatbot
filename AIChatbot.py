@@ -9,6 +9,9 @@ import audioop
 import subprocess
 import re
 
+from dotenv import load_dotenv
+load_dotenv()
+
 from openai import OpenAI
 
 import board
